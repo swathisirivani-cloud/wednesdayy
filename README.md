@@ -1,4 +1,4 @@
-# 🍛 Spice Corner – Food Menu Website
+# 🍛 YumRush – Food Menu Website
 
 A simple restaurant menu website built with HTML, CSS and JavaScript.
 
